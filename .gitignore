@@ -1,0 +1,11 @@
+build/*
+dist/*
+nbproject/*
+test/*
+.classpath
+build.xml
+manifest.mf
+build
+.zip
+.rar
+.tar
